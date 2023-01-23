@@ -1,0 +1,21 @@
+.footer__column-info{
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+order:1;
+}
+.footer__column__info_link-margin{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    margin: 0;
+    padding: 0;
+    margin: 10px 0 10px 0;
+}
+.footer__column__info_link{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    margin: 0;
+    padding: 0;
+}

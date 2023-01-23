@@ -1,0 +1,18 @@
+
+
+
+@import url(./footer__column-copyright/footer__column-copyright.css);
+@import url(./footer__column-social/footer__column-social.css);
+@import url(./footer__column-info/footer__column-info.css);
+
+.footer__column{
+    
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    
+    
+}

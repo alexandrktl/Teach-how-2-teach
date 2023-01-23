@@ -1,0 +1,23 @@
+.digits__blocks_table-h2{
+    line-height: 1.15;
+    font-weight: 600;
+    font-size:24px ;
+    margin: 0;
+}
+.digits__blocks_table-h3{
+    line-height: 1.2;
+    font-weight: normal;
+    font-size:18px ;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+.digits__blocks_table-h2-cover{
+    display: flex;
+    padding: 0;
+}
+.digits__blocks_table-h3-cover{
+    display: flex;
+    flex-direction: column;
+}
+

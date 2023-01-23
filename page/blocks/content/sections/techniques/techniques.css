@@ -1,0 +1,17 @@
+
+@import url(./techniques__blocks/techniques__blocks.css);
+@import url(./techniques__blocks/techniques__blocks_title-subtitle/techniques__blocks_title-subtitle.css);
+.content__techniques{
+    display: flex;
+    padding-top: 100px ;
+    width: 80%;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+.content__techniques__cards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 920px;
+}
+

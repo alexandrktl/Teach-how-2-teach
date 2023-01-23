@@ -1,0 +1,23 @@
+@import url(./techniques__blocks_cards_attention/techniques__blocks_cards_attention.css);
+@import url(./techniques__blocks_cards_recall/techniques__blocks_cards_recall.css);
+@import url(./techniques__blocks_cards_interliving/techniques__blocks_cards_interliving.css);
+@import url(./techniques__blocks_cards_question/techniques__blocks_cards_question.css);
+@import url(./techniques__blocks_cards_competence/techniques__blocks_cards_competence.css);
+
+.cards__item{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 240px;
+    margin: 0;
+}
+.cards__item_margin{
+    display: flex;
+    margin: 0 100px 0 100px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 240px;
+}

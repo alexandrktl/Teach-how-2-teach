@@ -1,0 +1,17 @@
+@import url(./footer__column/footer__column.css);
+.footer{
+    min-height: 350px;
+    display: flex;
+    background-color: #1f1f1f;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    justify-content: center;
+}
+.footer___h3-text{
+      font: size 18px;
+      line-height: 25px;
+      font-weight: normal;
+      color: white;
+ 
+      
+}

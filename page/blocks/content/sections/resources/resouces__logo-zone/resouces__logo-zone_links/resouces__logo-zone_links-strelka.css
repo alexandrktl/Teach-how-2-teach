@@ -1,0 +1,9 @@
+.resouces__logo-zone_links-strelka {
+    
+    height: 38px;
+    width:  270px;
+    background-image: url(./resouces__logo-zone_link-images/resources-strelka.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

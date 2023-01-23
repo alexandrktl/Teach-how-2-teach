@@ -1,0 +1,20 @@
+
+@import url(../techniques/techniques__blocks/techniques__blocks_title-subtitle/techniques__blocks_title-subtitle.css);
+@import url(./kaufman__dark-theme/kaufman__theme-dark.css);
+@import url(./kaufman__blocks/kaufman__blocks.css);
+.content_kaufman{
+    display: flex;
+    padding-top: 90px;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    background-color:  #1f1f1f;
+}
+.content__kaufman__table{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1100px;
+    margin: auto;
+    margin-bottom: 90px;
+}

@@ -1,0 +1,8 @@
+.digits__blocks_table_cell{
+    width: 250px;
+    display: flex;
+    flex-direction: column ;
+    justify-content: flex-start;
+    padding: 0;
+    margin-top: 60px ;
+}
